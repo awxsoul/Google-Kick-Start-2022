@@ -23,7 +23,4 @@ for i in range(1,t+1):
         print(h_p-1,end=" ")
     print("")
 
-            
-
-
-
+#note time limit exceed for test case 2   
